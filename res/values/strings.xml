@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Money 4 Group</string>
+    <string name="app_title">Money 4 Group - %1$s</string>
+    <string name="backMain">Back</string>
+    <string name="aboutTitle">Help</string>
+    <string name="consume_prompt">New Record</string>
+    <string name="activity">Activity</string>
+    <string name="record">Records</string>
+    <string name="balance">Balance</string>
+    <string name="help">Help</string>
+    <string name="userName">Member Name:</string>
+    <string name="contact">Contact of the phone:</string>
+    <string name="save">Save</string>
+    <string name="saveSucess">Successfully add a new member!</string>
+    <string name="tagPreDeposit">Pre-deposit</string>
+    <string name="tagConsume">Consume</string>
+    <string name="tagWithdraw">Withdraw</string>
+    <string name="tagIncome">Income</string>
+    <string name="ownerAct">Owner Activity: %1$s</string>
+    <string name="recordDesc">Description:</string>
+    <string name="amount">Amount:</string>
+    <string name="spentOn">Spent On:</string>
+    <string name="paidBy">Paid by:</string>
+    <string name="consumedBy">Consumed by:</string>
+    <string name="tag">Tag:</string>
+    <string-array name="recordType">
+		<item>Add a New Record...</item>
+		<item>Pre-deposit</item>
+		<item>Consume</item>
+		<item>Withdraw</item>
+		<item>Income</item>
+	</string-array>
+</resources>

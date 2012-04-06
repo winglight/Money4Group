@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">团体记账簿</string>
+    <string name="app_title">团体记账簿 - %1$s</string>
+    <string name="backMain">后退</string>
+    <string name="aboutTitle">帮助</string>
+    <string name="consume_prompt">添加新记录</string>
+    <string name="activity">Activity</string>
+    <string name="record">流水</string>
+    <string name="balance">结算</string>
+    <string name="help">帮助</string>
+    <string name="userName">成员姓名:</string>
+    <string name="contact">地址簿中的联系人:</string>
+    <string name="save">保存</string>
+    <string name="saveSucess">成功添加一个新成员!</string>
+    <string name="tagPreDeposit">预存</string>
+    <string name="tagConsume">消费</string>
+    <string name="tagWithdraw">取款</string>
+    <string name="tagIncome">收入</string>
+    <string-array name="recordType">
+		<item>记账...</item>
+		<item>预存</item>
+		<item>消费</item>
+		<item>取款</item>
+		<item>收入</item>
+	</string-array>
+</resources>
